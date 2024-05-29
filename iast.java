@@ -17,4 +17,6 @@ public interface EsIndexConstant {
     String COMPONENT_BINARY_APP = "component_binary_app";
 
     String iast = "test123123";
+
+    String csrf= "CSRF";
 }
